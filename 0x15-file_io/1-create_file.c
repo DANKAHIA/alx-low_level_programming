@@ -1,5 +1,4 @@
 #include "main.h"
-#include <stdib>
 
 /**
  * create_file -creates an array of chars, and initializes
